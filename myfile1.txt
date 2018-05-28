@@ -3,3 +3,6 @@ testing for git fetch command
 123
 
 rtt
+
+
+to do git pull
