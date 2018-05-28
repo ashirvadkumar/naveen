@@ -6,3 +6,5 @@ rtt
 
 
 to do git pull
+
+to check git fetch
